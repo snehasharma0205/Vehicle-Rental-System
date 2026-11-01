@@ -1,0 +1,50 @@
+ILLUSTRATIVE SAMPLE RUNS
+(Your exact terminal formatting may vary.)
+
+RUN 1 — CAR
+=====================================
+       VEHICLE RENTAL SYSTEM
+=====================================
+
+Choose a vehicle:
+1. Car
+2. Bike
+3. Exit
+Enter your choice: 1
+Enter vehicle ID (positive number): 101
+Enter vehicle model (one word, e.g. Swift or Activa): Swift
+Enter rental duration in days: 3
+
+----------- RENTAL RECEIPT -----------
+Vehicle type : Car
+Vehicle ID   : 101
+Model        : Swift
+Rate per day : Rs. 1500.00
+Insurance    : Rs. 200.00
+Duration     : 3 day(s)
+Total charges: Rs. 4700.00
+--------------------------------------
+
+RUN 2 — BIKE
+Enter your choice: 2
+Enter vehicle ID (positive number): 202
+Enter vehicle model (one word, e.g. Swift or Activa): Activa
+Enter rental duration in days: 2
+
+----------- RENTAL RECEIPT -----------
+Vehicle type : Bike
+Vehicle ID   : 202
+Model        : Activa
+Rate per day : Rs. 500.00
+Duration     : 2 day(s)
+Total charges: Rs. 1000.00
+--------------------------------------
+
+RUN 3 — INVALID DURATION
+Enter rental duration in days: 0
+Invalid input. Please enter a positive whole number.
+Enter rental duration in days: 2
+
+RUN 4 — EXIT
+Enter your choice: 3
+Thank you for using the Vehicle Rental System!

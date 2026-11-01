@@ -1,0 +1,7 @@
+SUBMISSION CHECKLIST
+[ ] Compile main.cpp with a C++17 compiler.
+[ ] Run the program and test Car, Bike, invalid input, and Exit.
+[ ] Capture real screenshots from your own terminal and place them in Screenshots/.
+[ ] Add your name/roll number/course/faculty details to the report if required.
+[ ] Upload all project files to a PUBLIC GitHub repository.
+[ ] Copy the repository main-page URL and paste it in the teacher's Google Sheet.
